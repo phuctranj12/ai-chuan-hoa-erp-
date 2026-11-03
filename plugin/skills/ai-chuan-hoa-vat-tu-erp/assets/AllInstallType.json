@@ -1,0 +1,260 @@
+[
+  {
+    "Mã kiểu lắp đặt": "DT",
+    "Tên kiểu lắp đặt": "đầu trơn",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "DR",
+    "Tên kiểu lắp đặt": "đầu ren",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "AT",
+    "Tên kiểu lắp đặt": "lắp âm tường",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "NT",
+    "Tên kiểu lắp đặt": "lắp nổi tường",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "LN",
+    "Tên kiểu lắp đặt": "lắp nổi",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "TN",
+    "Tên kiểu lắp đặt": "trong nhà",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "NN",
+    "Tên kiểu lắp đặt": "ngoài nhà",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "TT",
+    "Tên kiểu lắp đặt": "treo tường",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "AR",
+    "Tên kiểu lắp đặt": "lắp âm trần",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "GT",
+    "Tên kiểu lắp đặt": "gắn trần",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "GU",
+    "Tên kiểu lắp đặt": "gắn tường",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "LT",
+    "Tên kiểu lắp đặt": "lắp tường",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "TR",
+    "Tên kiểu lắp đặt": "treo trần",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "GK",
+    "Tên kiểu lắp đặt": "gắn kẹp",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "DO",
+    "Tên kiểu lắp đặt": "đổ trụ",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "AU",
+    "Tên kiểu lắp đặt": "âm tường",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "CC",
+    "Tên kiểu lắp đặt": "cắm cọc",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "AN",
+    "Tên kiểu lắp đặt": "âm nước",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "AD",
+    "Tên kiểu lắp đặt": "âm đất",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "DS",
+    "Tên kiểu lắp đặt": "đặt sàn",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "BW",
+    "Tên kiểu lắp đặt": "dạng hàn",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "T",
+    "Tên kiểu lắp đặt": "ren",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "F",
+    "Tên kiểu lắp đặt": "bích",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "G",
+    "Tên kiểu lắp đặt": "nối nhanh",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "QL",
+    "Tên kiểu lắp đặt": "quay lên",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "QX",
+    "Tên kiểu lắp đặt": "quay xuống",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "VT",
+    "Tên kiểu lắp đặt": "vách tường",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "MN",
+    "Tên kiểu lắp đặt": "màng ngăn",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "AM",
+    "Tên kiểu lắp đặt": "âm trần",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "HN",
+    "Tên kiểu lắp đặt": "hướng ngang",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "TDC",
+    "Tên kiểu lắp đặt": "bích TDC",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "C",
+    "Tên kiểu lắp đặt": "kẹp C",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "TDF",
+    "Tên kiểu lắp đặt": "bích TDF",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "TC",
+    "Tên kiểu lắp đặt": "tôn chấn",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "CLC",
+    "Tên kiểu lắp đặt": "kẹp TDC",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "CA",
+    "Tên kiểu lắp đặt": "cassette",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "AP",
+    "Tên kiểu lắp đặt": "áp trần",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "ATOG",
+    "Tên kiểu lắp đặt": "âm trần nối ống gió",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "TD",
+    "Tên kiểu lắp đặt": "tủ đứng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "KD",
+    "Tên kiểu lắp đặt": "không dây",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "CD",
+    "Tên kiểu lắp đặt": "có dây",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "GC",
+    "Tên kiểu lắp đặt": "gắn cột",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã kiểu lắp đặt": "W",
+    "Tên kiểu lắp đặt": "Wafer",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "Mã tiêu chuẩn": "MA53",
+    "Tên tiêu chuẩn": "ASTM A53",
+    "Mô tả": "Ống thép carbon (ERW/seamless) dùng cho đường ống áp lực/không áp.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA06",
+    "Tên tiêu chuẩn": "ASTM A106",
+    "Mô tả": "Ống thép carbon seamless cho nhiệt độ/áp suất cao.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA12",
+    "Tên tiêu chuẩn": "ASTM A312",
+    "Mô tả": "Ống inox austenitic (seamless/welded).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA33",
+    "Tên tiêu chuẩn": "ASTM A333",
+    "Mô tả": "Ống thép cho dịch vụ nhiệt độ thấp (low temperature service).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA351",
+    "Tên tiêu chuẩn": "ASTM A351",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA50",
+    "Tên tiêu chuẩn": "ASTM A500",
+    "Mô tả": "Thép ống kết cấu (structural tubing).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DA5L",
+    "Tên tiêu chuẩn": "API 5L",
+    "Mô tả": "Ống line pipe cho hệ thống dầu khí/khí.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DG48",
+    "Tên tiêu chuẩn": "JIS G3448",
+    "Mô tả": "Ống thép carbon cho mục đích thông dụng/đường ống.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DG52",
+    "Tên tiêu chuẩn": "JIS G3452",
+    "Mô tả": "Ống thép carbon cho đường ống áp lực thông dụng.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DG54",
+    "Tên tiêu chuẩn": "JIS G3454",
+    "Mô tả": "Ống thép carbon cho áp lực cao hơn (pressure service).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DG59",
+    "Tên tiêu chuẩn": "JIS G3459",
+    "Mô tả": "Ống thép hợp kim Cr-Mo cho nhiệt độ cao.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DE55",
+    "Tên tiêu chuẩn": "EN 10255",
+    "Mô tả": "Ống thép không hợp kim cho hàn/ren (non-alloy steel tubes).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DE16",
+    "Tên tiêu chuẩn": "EN 10216",
+    "Mô tả": "Ống thép seamless cho mục đích áp lực (pressure purpose).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DB87",
+    "Tên tiêu chuẩn": "BS 1387",
+    "Mô tả": "Ống thép carbon ren/hàn (thường dùng cấp nước, PCCC kiểu cũ).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI83",
+    "Tên tiêu chuẩn": "ISO 3183",
+    "Mô tả": "Line pipe cho hệ thống đường ống dẫn (tương thích API 5L).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DE87",
+    "Tên tiêu chuẩn": "EN 877",
+    "Mô tả": "Ống gang cho thoát nước trong nhà (building drainage).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI94",
+    "Tên tiêu chuẩn": "ISO 6594",
+    "Mô tả": "Ống gang/khớp nối cho thoát nước (cast iron drainage).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DBE7",
+    "Tên tiêu chuẩn": "BS EN 877",
+    "Mô tả": "Phiên bản BS áp dụng EN 877 cho ống gang thoát nước.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI52",
+    "Tên tiêu chuẩn": "ISO 1452",
+    "Mô tả": "Hệ ống uPVC cho cấp/thoát (PVC-U piping systems).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI27",
+    "Tên tiêu chuẩn": "ISO 4427",
+    "Mô tả": "Hệ ống PE cho cấp nước (PE water supply).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI74",
+    "Tên tiêu chuẩn": "ISO 15874",
+    "Mô tả": "Hệ ống PP-R cho nước nóng/lạnh.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MD85",
+    "Tên tiêu chuẩn": "ASTM D1785",
+    "Mô tả": "Ống PVC (Schedule 40/80) theo ASTM.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MD41",
+    "Tên tiêu chuẩn": "ASTM D2241",
+    "Mô tả": "Ống PVC (SDR) cho cấp nước.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MF41",
+    "Tên tiêu chuẩn": "ASTM F441",
+    "Mô tả": "Ống/fit CPVC cho nước nóng (Schedule 40/80).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DN77",
+    "Tên tiêu chuẩn": "DIN 8077",
+    "Mô tả": "Ống PE/PP – yêu cầu chung, kích thước.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DN78",
+    "Tên tiêu chuẩn": "DIN 8078",
+    "Mô tả": "Ống PE – yêu cầu và thử nghiệm.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DK41",
+    "Tên tiêu chuẩn": "JIS K6741",
+    "Mô tả": "Ống PVC theo JIS.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DK60",
+    "Tên tiêu chuẩn": "JIS K6760",
+    "Mô tả": "Ống PE theo JIS.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DM69",
+    "Tên tiêu chuẩn": "ASME B16.9",
+    "Mô tả": "Phụ kiện hàn đối đầu (butt-welding fittings).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DM11",
+    "Tên tiêu chuẩn": "ASME B16.11",
+    "Mô tả": "Phụ kiện rèn (forged) ren/hàn socket.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DM65",
+    "Tên tiêu chuẩn": "ASME B16.5",
+    "Mô tả": "Mặt bích & phụ kiện mặt bích (NPS ≤ 24).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA24",
+    "Tên tiêu chuẩn": "ASTM A234",
+    "Mô tả": "Vật liệu phụ kiện thép carbon (butt-weld fittings).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA43",
+    "Tên tiêu chuẩn": "ASTM A403",
+    "Mô tả": "Vật liệu phụ kiện inox austenitic.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA42",
+    "Tên tiêu chuẩn": "ASTM A420",
+    "Mô tả": "Vật liệu phụ kiện thép cho nhiệt độ thấp.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA44",
+    "Tên tiêu chuẩn": "ASTM A404",
+    "Mô tả": "Vật liệu phụ kiện thép hợp kim (high-temp).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DJ11",
+    "Tên tiêu chuẩn": "JIS B2311",
+    "Mô tả": "Phụ kiện hàn đối đầu theo JIS.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DJ12",
+    "Tên tiêu chuẩn": "JIS B2312",
+    "Mô tả": "Phụ kiện ống thép theo JIS (loại khác/chi tiết).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DE53",
+    "Tên tiêu chuẩn": "EN 10253",
+    "Mô tả": "Phụ kiện hàn đối đầu bằng thép.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DBE3",
+    "Tên tiêu chuẩn": "BS EN 10253",
+    "Mô tả": "Phiên bản BS áp dụng EN 10253.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MD66",
+    "Tên tiêu chuẩn": "ASTM D2466",
+    "Mô tả": "Fittings PVC Schedule 40.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MD67",
+    "Tên tiêu chuẩn": "ASTM D2467",
+    "Mô tả": "Fittings PVC Schedule 80.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DN63",
+    "Tên tiêu chuẩn": "DIN 8063",
+    "Mô tả": "Fittings nhựa PVC/CPVC theo DIN.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DM47",
+    "Tên tiêu chuẩn": "ASME B16.47",
+    "Mô tả": "Mặt bích cỡ lớn (NPS 26–60).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DJ20",
+    "Tên tiêu chuẩn": "JIS B2220",
+    "Mô tả": "Mặt bích theo JIS (các cấp áp lực 5K/10K/16K/20K...).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DB04",
+    "Tên tiêu chuẩn": "BS 4504",
+    "Mô tả": "Mặt bích theo BS (cũ, nhiều dự án vẫn dùng).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DB10",
+    "Tên tiêu chuẩn": "BS 10",
+    "Mô tả": "Mặt bích theo BS10.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DE92",
+    "Tên tiêu chuẩn": "EN 1092-1",
+    "Mô tả": "Mặt bích thép theo EN (EU).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI05",
+    "Tên tiêu chuẩn": "ISO 7005",
+    "Mô tả": "Mặt bích kim loại – quy định chung.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DP60",
+    "Tên tiêu chuẩn": "API 600",
+    "Mô tả": "Gate valves – thiết kế/thi công theo API.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DP62",
+    "Tên tiêu chuẩn": "API 602",
+    "Mô tả": "Gate/globe/check forged – API 602.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DP63",
+    "Tên tiêu chuẩn": "API 603",
+    "Mô tả": "Corrosion-resistant gate valves.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DP68",
+    "Tên tiêu chuẩn": "API 608",
+    "Mô tả": "Plug valves – metal/soft seated.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DP69",
+    "Tên tiêu chuẩn": "API 609",
+    "Mô tả": "Butterfly valves – API 609.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI08",
+    "Tên tiêu chuẩn": "ISO 5208",
+    "Mô tả": "Thử nghiệm áp lực van (pressure testing).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DB51",
+    "Tên tiêu chuẩn": "BS 5351",
+    "Mô tả": "Van công nghiệp – yêu cầu chung/thiết kế.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DJ01",
+    "Tên tiêu chuẩn": "JIS B2001",
+    "Mô tả": "Van – yêu cầu chung theo JIS.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DJ31",
+    "Tên tiêu chuẩn": "JIS B2031",
+    "Mô tả": "Van – thử nghiệm/kiểm tra theo JIS (tùy áp dụng).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA05",
+    "Tên tiêu chuẩn": "ASTM A105",
+    "Mô tả": "Thép carbon rèn (forged) cho thân/đầu nối van.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MWCB",
+    "Tên tiêu chuẩn": "ASTM A216 WCB",
+    "Mô tả": "Thép đúc carbon (cast steel) – grade WCB.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MCF8",
+    "Tên tiêu chuẩn": "ASTM A351 CF8",
+    "Mô tả": "Thép đúc inox 304 (cast stainless).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MC8M",
+    "Tên tiêu chuẩn": "ASTM A351 CF8M",
+    "Mô tả": "Thép đúc inox 316 (cast stainless).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MSP2",
+    "Tên tiêu chuẩn": "JIS SCPH2",
+    "Mô tả": "Thép đúc carbon theo JIS.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MS13",
+    "Tên tiêu chuẩn": "JIS SCS13",
+    "Mô tả": "Thép đúc inox tương đương 304.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DSMC",
+    "Tên tiêu chuẩn": "HVAC Duct Construction Standards",
+    "Mô tả": "Tiêu chuẩn chế tạo/lắp đặt ống gió HVAC.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DDW4",
+    "Tên tiêu chuẩn": "DW/144",
+    "Mô tả": "Tiêu chuẩn ống gió (UK) – DW/144.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DAHB",
+    "Tên tiêu chuẩn": "ASHRAE Handbook (HVAC Systems)",
+    "Mô tả": "Sổ tay hướng dẫn thiết kế hệ HVAC.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DR59",
+    "Tên tiêu chuẩn": "AHRI 550/590",
+    "Mô tả": "Hiệu suất/đánh giá chiller theo AHRI.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DH15",
+    "Tên tiêu chuẩn": "ASHRAE 15",
+    "Mô tả": "An toàn hệ thống lạnh (refrigeration safety).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DH34",
+    "Tên tiêu chuẩn": "ASHRAE 34",
+    "Mô tả": "Phân loại môi chất lạnh.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DH90",
+    "Tên tiêu chuẩn": "ASHRAE 90.1",
+    "Mô tả": "Hiệu quả năng lượng cho công trình (energy standard).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DARI",
+    "Tên tiêu chuẩn": "ARI (legacy)",
+    "Mô tả": "Tiêu chuẩn/hiệp hội cũ, nay phần lớn chuyển sang AHRI.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DN13",
+    "Tên tiêu chuẩn": "NFPA 13",
+    "Mô tả": "Thiết kế/lắp đặt hệ sprinkler.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DN14",
+    "Tên tiêu chuẩn": "NFPA 14",
+    "Mô tả": "Hệ standpipe & hose systems.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DN20",
+    "Tên tiêu chuẩn": "NFPA 20",
+    "Mô tả": "Bơm chữa cháy (fire pump) – yêu cầu.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DFMG",
+    "Tên tiêu chuẩn": "FM Global",
+    "Mô tả": "Yêu cầu/approval của FM cho thiết bị & hệ PCCC.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DULS",
+    "Tên tiêu chuẩn": "UL Listed",
+    "Mô tả": "Chứng nhận UL Listed cho thiết bị PCCC/điện.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DC27",
+    "Tên tiêu chuẩn": "IEC 60227",
+    "Mô tả": "Cáp cách điện PVC – điện áp định mức thấp.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DC28",
+    "Tên tiêu chuẩn": "IEC 60228",
+    "Mô tả": "Ruột dẫn cáp (conductors) – phân loại/điện trở.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DC02",
+    "Tên tiêu chuẩn": "IEC 60502",
+    "Mô tả": "Cáp điện lực cách điện XLPE (LV/MV) – yêu cầu.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DT35",
+    "Tên tiêu chuẩn": "TCVN 5935",
+    "Mô tả": "Tiêu chuẩn Việt Nam (cáp/điện – tùy áp dụng theo dự án).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DT10",
+    "Tên tiêu chuẩn": "TCVN 6610",
+    "Mô tả": "Tiêu chuẩn Việt Nam (cáp/điện – tùy áp dụng).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DB67",
+    "Tên tiêu chuẩn": "BS 5467",
+    "Mô tả": "Cáp điện lực bọc cách điện theo BS.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DB24",
+    "Tên tiêu chuẩn": "BS 6724",
+    "Mô tả": "Cáp điện lực ít khói, không halogen (LSZH) theo BS.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DC47",
+    "Tên tiêu chuẩn": "IEC 60947",
+    "Mô tả": "Thiết bị đóng cắt hạ áp (ACB/MCCB...).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DC98",
+    "Tên tiêu chuẩn": "IEC 60898",
+    "Mô tả": "MCB cho lắp đặt dân dụng/tiểu thương mại.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DIEE",
+    "Tên tiêu chuẩn": "IEEE",
+    "Mô tả": "Hệ tiêu chuẩn điện/điện tử (tham chiếu theo hạng mục).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DCSA",
+    "Tên tiêu chuẩn": "CSA",
+    "Mô tả": "Chứng nhận/tiêu chuẩn Canada cho thiết bị điện.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DV01",
+    "Tên tiêu chuẩn": "NEMA VE-1",
+    "Mô tả": "Tiêu chuẩn sản xuất thang máng cáp.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DV02",
+    "Tên tiêu chuẩn": "NEMA VE-2",
+    "Mô tả": "Hướng dẫn lắp đặt thang máng cáp.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DC37",
+    "Tên tiêu chuẩn": "IEC 61537",
+    "Mô tả": "Cable tray & cable ladder systems – yêu cầu.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DU68",
+    "Tên tiêu chuẩn": "UL 568",
+    "Mô tả": "Tiêu chuẩn liên quan đến cable tray (UL).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA36",
+    "Tên tiêu chuẩn": "ASTM A36",
+    "Mô tả": "Thép kết cấu carbon thông dụng.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA72",
+    "Tên tiêu chuẩn": "ASTM A572",
+    "Mô tả": "Thép kết cấu cường độ cao (HSLA).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA07",
+    "Tên tiêu chuẩn": "ASTM A307",
+    "Mô tả": "Bu lông thép carbon cấp thông dụng.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA25",
+    "Tên tiêu chuẩn": "ASTM A325",
+    "Mô tả": "Bu lông cường độ cao kết cấu.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MA90",
+    "Tên tiêu chuẩn": "ASTM A490",
+    "Mô tả": "Bu lông cường độ rất cao.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DN33",
+    "Tên tiêu chuẩn": "DIN 933",
+    "Mô tả": "Bu lông ren suốt (hex bolt) theo DIN.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DN34",
+    "Tên tiêu chuẩn": "DIN 934",
+    "Mô tả": "Đai ốc lục giác theo DIN.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI98",
+    "Tên tiêu chuẩn": "ISO 898",
+    "Mô tả": "Cơ tính bu lông (mechanical properties).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI50",
+    "Tên tiêu chuẩn": "ISO 19650",
+    "Mô tả": "Quản lý thông tin BIM trong vòng đời dự án.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI39",
+    "Tên tiêu chuẩn": "ISO 16739 (IFC)",
+    "Mô tả": "Chuẩn IFC cho trao đổi dữ liệu BIM.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DCOB",
+    "Tên tiêu chuẩn": "COBie",
+    "Mô tả": "Bàn giao dữ liệu tài sản (asset information).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DOMN",
+    "Tên tiêu chuẩn": "OmniClass",
+    "Mô tả": "Hệ phân loại xây dựng (Bắc Mỹ).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DUNI",
+    "Tên tiêu chuẩn": "UniClass",
+    "Mô tả": "Hệ phân loại (UK) – dùng nhiều trong BIM.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI29",
+    "Tên tiêu chuẩn": "IEC 60529",
+    "Mô tả": "Chuẩn định nghĩa cấp bảo vệ chống bụi/nước (IP Code).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI20",
+    "Tên tiêu chuẩn": "IP20",
+    "Mô tả": "Cấp bảo vệ IP20 (theo IEC 60529).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI40",
+    "Tên tiêu chuẩn": "IP40",
+    "Mô tả": "Cấp bảo vệ IP40 (theo IEC 60529).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI44",
+    "Tên tiêu chuẩn": "IP44",
+    "Mô tả": "Cấp bảo vệ IP44 (theo IEC 60529).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI54",
+    "Tên tiêu chuẩn": "IP54",
+    "Mô tả": "Cấp bảo vệ IP54 (theo IEC 60529).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI55",
+    "Tên tiêu chuẩn": "IP55",
+    "Mô tả": "Cấp bảo vệ IP55 (theo IEC 60529).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI65",
+    "Tên tiêu chuẩn": "IP65",
+    "Mô tả": "Cấp bảo vệ IP65 (theo IEC 60529).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI66",
+    "Tên tiêu chuẩn": "IP66",
+    "Mô tả": "Cấp bảo vệ IP66 (theo IEC 60529).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI67",
+    "Tên tiêu chuẩn": "IP67",
+    "Mô tả": "Cấp bảo vệ IP67 (theo IEC 60529).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "RI68",
+    "Tên tiêu chuẩn": "IP68",
+    "Mô tả": "Cấp bảo vệ IP68 (theo IEC 60529).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "IHMX",
+    "Tên tiêu chuẩn": "HM",
+    "Mô tả": "Chuẩn nội bộ: HM (hệ/nhóm nội bộ).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "BS",
+    "Tên tiêu chuẩn": "BS",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "JIS",
+    "Tên tiêu chuẩn": "JIS",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "AT",
+    "Tên tiêu chuẩn": "ASTM",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DB35",
+    "Tên tiêu chuẩn": "BS 3505",
+    "Mô tả": "Tiêu chuẩn quy định các kích thước hệ inch, cấp áp lực và chất lượng ống nhựa uPVC",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DB35-DI52",
+    "Tên tiêu chuẩn": "BS 3505-ISO 1452",
+    "Mô tả": "Tiêu chuẩn này định nghĩa các kích thước hệ inch, cấp áp lực và chất lượng ống nhựa uPVC",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI33",
+    "Tên tiêu chuẩn": "ISO 3633",
+    "Mô tả": "quy định các yêu cầu kỹ thuật đối với hệ thống ống và phụ tùng nhựa UPVC dùng cho mục đích thoát nước thải và nước thải sinh hoạt (nhiệt độ thấp và cao) bên trong các tòa nhà. Tiêu chuẩn này tập trung vào độ bền, khả năng chịu hóa chất và kích thước ống",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DB52",
+    "Tên tiêu chuẩn": "BS EN 1452",
+    "Mô tả": "Hệ ống uPVC cho cấp/thoát (PVC-U piping systems).",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DBE54",
+    "Tên tiêu chuẩn": "BS EN 5154",
+    "Mô tả": "Van cấp nước",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DIN EN 13",
+    "Tên tiêu chuẩn": "DIN EN 1213",
+    "Mô tả": "Van trong hệ thống nước nóng trung tâm",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DIN 8800",
+    "Tên tiêu chuẩn": "DIN 1988 300",
+    "Mô tả": "Van trong hệ thống nước nóng trung tâm",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DE12",
+    "Tên tiêu chuẩn": "EN 10312",
+    "Mô tả": "Quy định dung sai kích thước, độ dày thành ống, và các yêu cầu về thử nghiệm độ kín ống thép không gỉ hàn",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DM01",
+    "Tên tiêu chuẩn": "ASME B1.20.1",
+    "Mô tả": "quy định về ren ống côn quốc gia (NPT - National Pipe Tapered), được sử dụng phổ biến để kết nối và niêm phong ống dẫn bằng ren.",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DBE62",
+    "Tên tiêu chuẩn": "BS EN 1562",
+    "Mô tả": "Ống thép mạ kẽm ren",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DI195",
+    "Tên tiêu chuẩn": "DIN19522",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DBE00",
+    "Tên tiêu chuẩn": "BS3600,BS3601",
+    "Mô tả": "Ống thép đen hàn",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "MBEI627-1",
+    "Tên tiêu chuẩn": "BS EN 1562,ISO 7-1",
+    "Mô tả": "Ống gang kiểu kết nối ren",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DABI17-1",
+    "Tên tiêu chuẩn": "ASME B1.20.1, ISO 7-1",
+    "Mô tả": "Ống gang kiểu kết nối ren",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DE92.2",
+    "Tên tiêu chuẩn": "EN 1092-2",
+    "Mô tả": "tiêu chuẩn Châu Âu quy định các yêu cầu kỹ thuật đối với mặt bích tròn làm bằng vật liệu gang (bao gồm gang dẻo, gang xám và gang dễ uốn)",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DD35",
+    "Tên tiêu chuẩn": "DIN 2635",
+    "Mô tả": "quy định về mặt bích hàn cổ (Welding Neck Flange) với áp suất danh định chịu được là PN40",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DD42",
+    "Tên tiêu chuẩn": "DIN 2642",
+    "Mô tả": "Tiêu chuẩn cho bích kết nối với bơm",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DIN",
+    "Tên tiêu chuẩn": "DIN",
+    "Mô tả": "Tiêu chuẩn cho bích kết nối với bơm",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DAB20",
+    "Tên tiêu chuẩn": "ASTM B280",
+    "Mô tả": "tiêu chuẩn kỹ thuật cho ống đồng liền mạch",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DAB12",
+    "Tên tiêu chuẩn": "ASME B16.22",
+    "Mô tả": "tiêu chuẩn về phụ kiện ống bằng đồng và hợp kim đồng dạng rèn, nối bằng hàn thiếc/hàn mềm (solder joint)",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "DN162",
+    "Tên tiêu chuẩn": "DIN 16962",
+    "Mô tả": "DIN 16962 là một bộ tiêu chuẩn DIN của Đức về các mối nối và phụ tùng (fittings) dùng cho đường ống áp lực bằng polypropylene (PP)",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã tiêu chuẩn": "IT15893",
+    "Tên tiêu chuẩn": "ISO/TR 10358:1993",
+    "Mô tả": "khả năng chịu hóa chất của ống và phụ tùng ống bằng nhựa.",
+    "Trạng thái": "Kích hoạt"
+  }
+]

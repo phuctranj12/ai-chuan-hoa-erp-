@@ -1,0 +1,8 @@
+{
+  "name": "ai-chuan-hoa-erp",
+  "version": "2.0.13",
+  "description": "Chuẩn hóa vật tư ERP Hawee bằng skill và dữ liệu DATA đóng gói, không cần MCP.",
+  "author": {
+    "name": "Hawee"
+  }
+}

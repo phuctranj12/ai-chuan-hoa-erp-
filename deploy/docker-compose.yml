@@ -1,0 +1,78 @@
+# =============================================================================
+# MCP "AI Chuẩn hóa vật tư ERP" — chạy từ thư mục deploy/ của bản rsync trên server
+# (mặc định /opt/vattu-mcp/deploy). `name:` cố định project → volume luôn là vattu-mcp_vattu_data.
+#
+# Ảnh ghim theo tag qua ${MCP_IMAGE}/${GATEWAY_IMAGE}; giá trị thật do scripts/write-override.sh
+# sinh trong docker-compose.override.yml (con trỏ phiên bản để rollback).
+# Bí mật & cấu hình server nằm trong deploy/.env (xem .env.example) — không commit.
+# =============================================================================
+name: vattu-mcp
+
+x-logging: &default-logging
+  driver: json-file
+  options:
+    max-size: "10m"
+    max-file: "5"
+
+services:
+  mcp:
+    image: ${MCP_IMAGE:-vattu_mcp:dev}
+    build:
+      context: ..
+      dockerfile: mcp/Dockerfile
+    restart: unless-stopped
+    logging: *default-logging
+    environment:
+      NODE_ENV: production
+      APP_VERSION: ${APP_VERSION:-dev}
+      VT_PUBLIC_BASE_URL: https://${SERVER_DOMAIN:?SERVER_DOMAIN chưa đặt trong .env}
+      # Khoá AES-256 mã hoá token ERP lưu trong DB. Đổi khoá = mọi người phải kết nối lại.
+      VT_ENC_KEY: ${VT_ENC_KEY:?VT_ENC_KEY chưa đặt trong .env (openssl rand -base64 32)}
+      VT_TRUST_PROXY: "1"
+      VT_ERP_TOKEN_URL: ${VT_ERP_TOKEN_URL:-https://cm-api.erp.hawee.com.vn/connect/token}
+      VT_ERP_API_BASE: ${VT_ERP_API_BASE:-https://cm-api.erp.hawee.com.vn}
+      VT_ERP_BIM_BASE: ${VT_ERP_BIM_BASE:-https://bim.erp.hawee.com.vn}
+      VT_ERP_CLIENT_ID: ${VT_ERP_CLIENT_ID:-CxmApi_App}
+      VT_LIVE_VERIFY_MAX_ROWS: ${VT_LIVE_VERIFY_MAX_ROWS:-50}
+      VT_LOG_LEVEL: ${VT_LOG_LEVEL:-info}
+      TZ: ${TZ:-Asia/Ho_Chi_Minh}
+    volumes:
+      - vattu_data:/data          # SQLite (phiên, token băm, audit) + file kết quả tạm
+    expose:
+      - "8080"                    # KHÔNG publish ra host — chỉ gateway gọi vào
+    networks: [internal]
+    read_only: true               # rootfs chỉ đọc; chỉ /data và /tmp ghi được
+    tmpfs:
+      - /tmp
+    cap_drop: [ALL]
+    security_opt:
+      - no-new-privileges:true
+
+  gateway:
+    image: ${GATEWAY_IMAGE:-vattu_gateway:dev}
+    build: ./gateway
+    restart: unless-stopped
+    logging: *default-logging
+    depends_on:
+      mcp:
+        condition: service_healthy   # nginx phân giải upstream lúc nạp cấu hình
+    environment:
+      SERVER_DOMAIN: ${SERVER_DOMAIN:?SERVER_DOMAIN chưa đặt trong .env}
+      TRUSTED_PROXY_IP: ${TRUSTED_PROXY_IP:?TRUSTED_PROXY_IP chưa đặt trong .env}
+      NGINX_ENVSUBST_FILTER: "^(SERVER_DOMAIN|TRUSTED_PROXY_IP)$$"
+      TZ: ${TZ:-Asia/Ho_Chi_Minh}
+    ports:
+      - "${PUBLIC_HTTPS_PORT:?PUBLIC_HTTPS_PORT chưa đặt trong .env}:443"
+    volumes:
+      - ./certs:/etc/nginx/certs:ro  # server.crt (fullchain) + server.key do IT cấp
+    networks: [internal]
+    security_opt:
+      - no-new-privileges:true
+
+networks:
+  internal:
+    driver: bridge
+
+volumes:
+  # `docker compose down -v` xoá volume này = mọi người phải đăng nhập lại, mất audit log.
+  vattu_data:

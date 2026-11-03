@@ -1,0 +1,20 @@
+{
+  // Chỉ dùng để kiểm kiểu (tsc --noEmit). Node 24 chạy thẳng file .ts bằng type stripping,
+  // nên chỉ được dùng cú pháp TS "xoá được" (không enum, không namespace, không parameter property).
+  "compilerOptions": {
+    "target": "es2024",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "lib": ["es2024"],
+    "types": ["node"],
+    "strict": true,
+    "noEmit": true,
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+    "erasableSyntaxOnly": true,
+    "noUncheckedIndexedAccess": false,
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*.ts", "test/**/*.ts", "scripts/**/*.ts"]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "Mã không gian lắp đặt": "AT",
+    "Tên không gian lắp đặt": "lắp âm tường",
+    "Mô tả": "Lắp âm tường",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã không gian lắp đặt": "AS",
+    "Tên không gian lắp đặt": "lắp âm sàn",
+    "Mô tả": "Lắp âm sàn",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã không gian lắp đặt": "AB",
+    "Tên không gian lắp đặt": "lắp âm bê tông",
+    "Mô tả": "Lắp âm bê tông",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã không gian lắp đặt": "LN",
+    "Tên không gian lắp đặt": "lắp nổi",
+    "Mô tả": "Lắp nổi",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã không gian lắp đặt": "AB1",
+    "Tên không gian lắp đặt": "lắp âm bê tông đặt chờ",
+    "Mô tả": "lắp âm bê tông đặt chờ",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã không gian lắp đặt": "AB2",
+    "Tên không gian lắp đặt": "lắp âm bê tông cắt đục",
+    "Mô tả": "lắp âm bê tông cắt đục",
+    "Trạng thái": "Kích hoạt"
+  }
+]

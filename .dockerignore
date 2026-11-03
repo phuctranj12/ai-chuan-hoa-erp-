@@ -1,0 +1,10 @@
+# Build context của mcp/Dockerfile là gốc repo. Chỉ cho phép đúng những gì image cần (danh sách trắng):
+# không lọt .git, .env, certs, node_modules máy dev, dữ liệu test.
+*
+!mcp/package.json
+!mcp/package-lock.json
+!mcp/src/
+!plugin/plugin.json
+!plugin/skills/ai-chuan-hoa-vat-tu-erp/scripts/
+!plugin/skills/ai-chuan-hoa-vat-tu-erp/references/
+!plugin/skills/ai-chuan-hoa-vat-tu-erp/assets/

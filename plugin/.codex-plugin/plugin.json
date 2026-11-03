@@ -1,0 +1,30 @@
+{
+  "interface": {
+    "displayName": "Hawee_Chuẩn hóa vật tư ERP",
+    "shortDescription": "Chuẩn hóa vật tư ERP",
+    "longDescription": "Chuẩn hóa vật tư từ mô tả hoặc file bằng skill, lõi quy tắc, ma trận và danh mục DATA đóng gói. Không cần MCP; chỉ kiểm tra ERP trực tiếp khi người dùng yêu cầu.",
+    "developerName": "Hawee",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Vật tư này tên gì của Hawee và cần nhập các thuộc tính nào?",
+      "Chuẩn hóa các mô tả vật tư trong file tôi tải lên.",
+      "Kiểm tra các giá trị vật tư nào chưa có trong ERP."
+    ]
+  },
+  "name": "ai-chuan-hoa-erp",
+  "version": "2.0.13",
+  "description": "Chuẩn hóa và tra cứu vật tư theo danh mục, ma trận thuộc tính và giá trị ERP Hawee trên ChatGPT Web hoặc ChatGPT Extension for Chrome.",
+  "author": {
+    "name": "Hawee"
+  },
+  "keywords": [
+    "erp",
+    "excel",
+    "chuẩn hóa vật tư",
+    "ma trận thuộc tính"
+  ],
+  "skills": "./skills"
+}

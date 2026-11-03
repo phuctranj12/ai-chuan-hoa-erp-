@@ -1,0 +1,36 @@
+# Nút rollback: Actions → Rollback → Run workflow → nhập tag (7 ký tự SHA). Không cần SSH vào server.
+name: Rollback
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag cần quay về (7 ký tự SHA). Xem deploy/list-releases.sh"
+        required: true
+        type: string
+      reason:
+        description: "Lý do (ghi log)"
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-vattu-mcp        # GIỐNG deploy.yml → không chạy chồng lên deploy
+  cancel-in-progress: false
+
+jobs:
+  rollback:
+    if: vars.DEPLOY_ENABLED == 'true'
+    runs-on: ${{ vars.DEPLOY_RUNNER || 'self-hosted' }}
+    steps:
+      - name: Quay về ${{ inputs.tag }}
+        working-directory: ${{ vars.DEPLOY_DIR || '/opt/vattu-mcp' }}/deploy
+        env:
+          TAG: ${{ inputs.tag }}
+          REASON: ${{ inputs.reason }}
+        run: |
+          [[ "$TAG" =~ ^[0-9a-f]{7}$ ]] || { echo "Tag phải là 7 ký tự hex"; exit 1; }
+          echo "Rollback -> $TAG — lý do: $REASON"
+          ./rollback.sh "$TAG"

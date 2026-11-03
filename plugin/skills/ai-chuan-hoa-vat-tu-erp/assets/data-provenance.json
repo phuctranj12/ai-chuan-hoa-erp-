@@ -1,0 +1,74 @@
+{
+  "importDate": "2026-11-02",
+  "mode": "offline",
+  "baseCatalogSha256": "3320524cff6711ca93365626597ef43a6082a057e10119c3f1936a2864e6c56d",
+  "sources": [
+    {
+      "file": "AllSizes.xlsx; filename_=UTF-8''AllSizes (1).xlsx",
+      "sha256": "8194c6564f0b8b6db56ade90b989acd9c468b8769dbdbe798005859dcfddd825",
+      "catalogKey": "KICH_THUOC",
+      "rows": 19249,
+      "active": 19235,
+      "inactive": 14
+    },
+    {
+      "file": "AllRanges.xlsx; filename_=UTF-8''AllRanges.xlsx",
+      "sha256": "d5121d6c12eda1939a4dd31eb111cf8a220febedc7908bae52d0bdc4feb055f2",
+      "catalogKey": "DAI_THONG_SO",
+      "rows": 1357,
+      "active": 1352,
+      "inactive": 5
+    },
+    {
+      "file": "AllSpecifications.xlsx; filename_=UTF-8''AllSpecifications.xlsx",
+      "sha256": "a5836fa6cd0ca4de86796471c2dccdbd56c82f452e1c68ea009733f5244ee282",
+      "catalogKey": "TIEU_CHUAN",
+      "rows": 140,
+      "active": 140,
+      "inactive": 0
+    },
+    {
+      "file": "AllFinishes.xlsx; filename_=UTF-8''AllFinishes.xlsx",
+      "sha256": "50dbe3d9d89aea61fd14541b7fcad1532917139a242f5ed1c5e7e1a274107ab5",
+      "catalogKey": "HOAN_THIEN",
+      "rows": 100,
+      "active": 99,
+      "inactive": 1
+    },
+    {
+      "file": "AllInstallType.xlsx; filename_=UTF-8''AllInstallType.xlsx",
+      "sha256": "14d755ea4f516115f4eee6b9402c4db74376794b12ce85ab5815e42fb6bb53f8",
+      "catalogKey": "KIEU_LAP_DAT",
+      "rows": 43,
+      "active": 43,
+      "inactive": 0
+    },
+    {
+      "file": "AllOrigins.xlsx; filename_=UTF-8''AllOrigins.xlsx",
+      "sha256": "fbde041fb7af8940ee71169564b6d1c3ae949425ca9e6fe633b3701c9fb96b82",
+      "catalogKey": "XUAT_XU",
+      "rows": 37,
+      "active": 37,
+      "inactive": 0
+    },
+    {
+      "file": "AllInstallationSpaces.xlsx; filename_=UTF-8''AllInstallationSpaces.xlsx",
+      "sha256": "5b5e2b714ae4ccbc23e40bdc37ea9872230d96665d02053f9a0ab33bfc6e3ed4",
+      "catalogKey": "KHONG_GIAN_LAP_DAT",
+      "rows": 6,
+      "active": 6,
+      "inactive": 0
+    }
+  ],
+  "retained": [
+    "NHOM_VAT_TU",
+    "VAT_TU",
+    "MATRIX",
+    "MASTER",
+    "Alias",
+    "AliasMatrix"
+  ],
+  "note": "Danh mục nhóm, vật tư và ma trận giữ từ snapshot nền; không phải dữ liệu ERP trực tiếp.",
+  "basePluginVersion": "2.0.7",
+  "basePluginArchiveSha256": "d0731a524c1fa379cfe6a648b172b64ae1845eedbcd9025abaac8482c7aef3a6"
+}

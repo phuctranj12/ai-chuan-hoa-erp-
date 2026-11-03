@@ -1,0 +1,10 @@
+node_modules/
+mcp/data/
+*.log
+
+# Trạng thái/bí mật trên server — KHÔNG commit
+deploy/.env
+deploy/certs/
+deploy/shared/
+deploy/docker-compose.override.yml
+.env

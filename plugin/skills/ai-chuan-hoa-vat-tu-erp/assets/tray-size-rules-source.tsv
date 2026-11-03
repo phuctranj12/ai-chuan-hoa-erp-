@@ -1,0 +1,745 @@
+Trạng thái	Tên nhóm vật tư	Mô tả	Tên đơn vị tính	Loại vật tư	Kích thước chuẩn
+Kích hoạt	Máng & phụ kiện tôn zam	Máng đột lỗ tôn zam	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng trong tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng ngoài tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Côn máng đột lỗ tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang máng đột lỗ tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút đứng trong máng đột lỗ tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút đứng ngoài máng đột lỗ tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch đứng trong máng đột lỗ tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch đứng ngoài máng đột lỗ tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tê đều máng đột lỗ tôn zam	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tứ chạc đều máng đột lỗ tôn zam	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng đột lỗ và thang cáp tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và tủ điện kiểu 1 tôn zam	Cái	Nối máng và tủ điện kiểu 1	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp bịt cuối máng tôn zam	Cái	Nắp bịt cuối máng	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Kẹp nắp máng tôn zam	Cái	Kẹp nắp máng	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp máng tôn zam	m	Nắp máng cáp	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp côn máng tôn zam	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp cút ngang máng tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp cút đứng trong máng tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp cút đứng ngoài máng tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp chếch đứng trong máng tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp chếch đứng ngoài máng tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp tê đều máng tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp tứ chạc đều máng tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp phụ kiện chữ Z đứng máng tôn zam	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Máng không đột lỗ tôn zam	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn máng không đột lỗ tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang máng không đột lỗ tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút đứng trong máng không đột lỗ tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút đứng ngoài máng không đột lỗ tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch đứng trong máng không đột lỗ tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch đứng ngoài máng không đột lỗ tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tê đều máng không đột lỗ tôn zam	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tứ chạc đều máng không đột lỗ tôn zam	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z đứng máng không đột lỗ tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng không đột lỗ và thang cáp tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện đa năng CT01 máng đột lỗ tôn zam	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện đa năng CT02 máng đột lỗ tôn zam	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện đa năng CT03 máng đột lỗ tôn zam	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện đa năng CT04 máng đột lỗ tôn zam	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện đa năng CT05 máng đột lỗ tôn zam	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp nối máng và tủ điện kiểu 1 tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch ngang máng đột lỗ tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp chếch ngang máng tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp nối máng và thang cáp tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và tủ điện kiểu 2 tôn zam	Cái	Nối máng và tủ điện kiểu 2	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp nối máng và tủ điện kiểu 2 tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z ngang lệch phải máng đột lỗ tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Côn nối máng đột lỗ và thang cáp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và tủ điện kiểu 3 tôn zam	Cái	Nối máng và tủ điện kiểu 3	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tê thu máng đột lỗ tôn zam	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp tê thu máng tôn zam	Cái	Nắp phụ kiện máng	W1/2/3
+Kích hoạt	Máng & phụ kiện tôn zam	Tứ chạc thu máng đột lỗ tôn zam	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Tứ chạc thu máng không đột lỗ tôn zam	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp tứ chạc thu máng tôn zam	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn zam	Tê thu máng không đột lỗ tôn zam	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn nối máng không đột lỗ và thang cáp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp nối máng và thang cáp kiểu 2 tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp phụ kiện chữ Z ngang lệch phải máng tôn zam	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch ngang máng không đột lỗ tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z ngang lệch trái máng đột lỗ tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và tủ điện tôn zam	Cái	Nối máng và tủ điện	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp phụ kiện chữ Z ngang lệch trái máng tôn zam	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp nối máng và tủ điện tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và thang cáp kiểu 2 tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng đột lỗ và thang cáp kiểu 2 tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng không đột lỗ và thang cáp kiểu 2 tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp côn nối máng và thang cáp tôn zam	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Kẹp máng tôn sơn tĩnh điện	Cái	Kẹp máng cáp	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Máng đột lỗ tôn sơn tĩnh điện	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng trong tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng ngoài tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút đứng trong máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút đứng ngoài máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch đứng trong máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch đứng ngoài máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tê đều máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tứ chạc đều máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z đứng máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng đột lỗ và thang cáp tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và tủ điện kiểu 1 tôn sơn tĩnh điện	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp bịt cuối máng tôn sơn tĩnh điện	Cái	Channel Multi Port	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Kẹp nắp máng tôn sơn tĩnh điện	Cái	Kẹp nắp máng	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp máng tôn sơn tĩnh điện	m	Nắp máng cáp	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp côn máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp cút ngang máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp cút đứng trong máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp cút đứng ngoài máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp chếch đứng trong máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp chếch đứng ngoài máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp tê đều máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp tứ chạc đều máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp phụ kiện chữ Z đứng máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Máng không đột lỗ tôn sơn tĩnh điện	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút đứng trong máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút đứng ngoài máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch đứng trong máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch đứng ngoài máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tê đều máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tứ chạc đều máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z đứng máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng không đột lỗ và thang cáp tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện đa năng CT01 máng đột lỗ tôn sơn tĩnh điện	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện đa năng CT02 máng đột lỗ tôn sơn tĩnh điện	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện đa năng CT03 máng đột lỗ tôn sơn tĩnh điện	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện đa năng CT04 máng đột lỗ tôn sơn tĩnh điện	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện đa năng CT05 máng đột lỗ tôn sơn tĩnh điện	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp nối máng và tủ điện kiểu 1 tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch ngang máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp chếch ngang máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp nối máng và thang cáp tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và tủ điện kiểu 2 tôn sơn tĩnh điện	Cái	Ladder Union	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp nối máng và tủ điện kiểu 2 tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z ngang lệch phải máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn nối máng đột lỗ và thang cáp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và tủ điện kiểu 3 tôn sơn tĩnh điện	Cái	Ladder Union	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tê thu máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp tê thu máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2/3
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tứ chạc thu máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tứ chạc thu máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp tứ chạc thu máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tê thu máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn nối máng không đột lỗ và thang cáp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp nối máng và thang cáp kiểu 2 tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp phụ kiện chữ Z ngang lệch phải máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch ngang máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z ngang lệch trái máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và tủ điện tôn sơn tĩnh điện	Cái	Ladder Union	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp phụ kiện chữ Z ngang lệch trái máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp nối máng và tủ điện tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và thang cáp kiểu 2 tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng đột lỗ và thang cáp kiểu 2 tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng không đột lỗ và thang cáp kiểu 2 tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp côn nối máng và thang cáp tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Máng đột lỗ mạ kẽm nhúng nóng	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng trong mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng ngoài mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút đứng trong máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút đứng ngoài máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch đứng trong máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch đứng ngoài máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tê đều máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tứ chạc đều máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z đứng máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng đột lỗ và thang cáp mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và tủ điện kiểu 1 mạ kẽm nhúng nóng	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp bịt cuối máng mạ kẽm nhúng nóng	Cái	Channel Multi Port	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Kẹp nắp máng mạ kẽm nhúng nóng	Cái	Kẹp nắp máng	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp máng mạ kẽm nhúng nóng	m	Nắp máng cáp	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp côn máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp cút ngang máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp cút đứng trong máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp cút đứng ngoài máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp chếch đứng trong máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp chếch đứng ngoài máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp tê đều máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp tứ chạc đều máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp phụ kiện chữ Z máng đứng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Máng không đột lỗ mạ kẽm nhúng nóng	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút đứng trong máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút đứng ngoài máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch đứng trong máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch đứng ngoài máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tê đều máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tứ chạc đều máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z đứng máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng không đột lỗ và thang cáp mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện đa năng CT01 máng đột lỗ mạ kẽm nhúng nóng	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện đa năng CT02 máng đột lỗ mạ kẽm nhúng nóng	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện đa năng CT03 máng đột lỗ mạ kẽm nhúng nóng	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện đa năng CT04 máng đột lỗ mạ kẽm nhúng nóng	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện đa năng CT05 máng đột lỗ mạ kẽm nhúng nóng	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp nối máng và tủ điện kiểu 1 mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch ngang máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp chếch ngang máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp nối máng và thang cáp mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và tủ điện kiểu 2 mạ kẽm nhúng nóng	Cái	Ladder Union	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp nối máng và tủ điện kiểu 2 mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z ngang lệch phải máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn nối máng đột lỗ và thang cáp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và tủ điện kiểu 3 mạ kẽm nhúng nóng	Cái	Ladder Union	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tê thu máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp tê thu máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2/3
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tứ chạc thu máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tứ chạc thu máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp tứ chạc thu máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tê thu máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn nối máng không đột lỗ và thang cáp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp nối máng và thang cáp kiểu 2 mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp phụ kiện chữ Z ngang lệch phải máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch ngang máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z ngang lệch trái máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và tủ điện mạ kẽm nhúng nóng	Cái	Ladder Union	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp phụ kiện chữ Z ngang lệch trái máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp nối máng và tủ điện mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và thang cáp kiểu 2 mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng đột lỗ và thang cáp kiểu 2 mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng không đột lỗ và thang cáp kiểu 2 mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp côn nối máng và thang cáp mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu trái máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu phải máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Kẹp máng mạ kẽm nhúng nóng	Cái	Kẹp máng cáp	H
+Kích hoạt	Máng & phụ kiện tôn zam	Kẹp máng tôn zam	Cái	Kẹp máng	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang thu trái máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang thu phải máng đột lỗ tôn sơn tĩnh điện	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z đứng máng đột lỗ tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang thu trái máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang thu phải máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu phải máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu phải máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu phải nối máng đột lỗ và thang cáp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu trái máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu trái máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu trái nối máng đột lỗ và thang cáp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang nối máng đột lỗ và thang cáp mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang thu phải máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang thu phải máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang thu trái máng đột lỗ mạ kẽm nhúng nóng	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang thu trái máng không đột lỗ mạ kẽm nhúng nóng	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp côn thu phải nối máng và thang cáp mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp côn thu phải máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp côn thu trái nối máng và thang cáp mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp côn thu trái máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp Cút ngang thu phải máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp Cút ngang thu trái máng mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp phụ kiện chữ Z đứng lệch phải mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp phụ kiện đa năng CT04 mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và thang cáp mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu phải máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu phải nối máng đột lỗ và thang cáp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu trái máng không đột lỗ tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu trái nối máng đột lỗ và thang cáp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang nối máng đột lỗ và thang cáp tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp côn thu phải nối máng và thang cáp tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp côn thu phải máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp côn thu trái nối máng và thang cáp tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp côn thu trái máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp Cút ngang thu phải máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp Cút ngang thu trái máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp phụ kiện chữ Z đứng lệch phải tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp phụ kiện đa năng CT04 máng tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và thang cáp tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu phải máng đột lỗ tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu phải máng không đột lỗ tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu phải nối máng đột lỗ và thang cáp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu trái máng đột lỗ tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu trái máng không đột lỗ tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu trái nối máng đột lỗ và thang cáp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang nối máng đột lỗ và thang cáp tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang thu phải máng đột lỗ tôn zam	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang thu phải máng không đột lỗ tôn zam	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang thu trái máng đột lỗ tôn zam	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang thu trái máng không đột lỗ tôn zam	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp côn thu phải nối máng và thang cáp tôn zam	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp côn thu phải máng tôn zam	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp côn thu trái nối máng và thang cáp tôn zam	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp côn thu trái máng tôn zam	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp Cút ngang thu phải máng tôn zam	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp Cút ngang thu trái máng tôn zam	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp phụ kiện chữ Z đứng lệch phải máng tôn zam	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp phụ kiện đa năng CT04 máng tôn zam	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và thang cáp tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch đứng ngoài máng đột lỗ tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch đứng ngoài máng không đột lỗ tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch đứng trong máng đột lỗ tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch đứng trong máng không đột lỗ tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch ngang máng đột lỗ tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch ngang máng không đột lỗ tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn máng đột lỗ tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn máng không đột lỗ tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn nối máng đột lỗ và thang cáp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn nối máng không đột lỗ và thang cáp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu phải máng đột lỗ tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu phải máng không đột lỗ tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu phải nối máng đột lỗ và thang cáp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu trái máng đột lỗ tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu trái máng không đột lỗ tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu trái nối máng đột lỗ và thang cáp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút đứng ngoài máng đột lỗ tôn posmac	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút đứng ngoài máng không đột lỗ tôn posmac	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút đứng trong máng đột lỗ tôn posmac	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút đứng trong máng không đột lỗ tôn posmac	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang máng đột lỗ tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang máng không đột lỗ tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang nối máng đột lỗ và thang cáp tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang thu phải máng đột lỗ tôn posmac	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang thu phải máng không đột lỗ tôn posmac	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang thu trái máng đột lỗ tôn posmac	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang thu trái máng không đột lỗ tôn posmac	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Kẹp máng tôn posmac	Cái	Kẹp máng	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Kẹp nắp máng tôn posmac	Cái	Kẹp nắp máng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Máng đột lỗ tôn posmac	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Máng không đột lỗ tôn posmac	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp bịt cuối máng tôn posmac	Cái	Nắp phụ kiện máng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp chếch đứng ngoài máng tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp chếch đứng trong máng tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp chếch ngang máng tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp côn nối máng và thang cáp tôn posmac	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp côn thu phải nối máng và thang cáp tôn posmac	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp côn thu phải máng tôn posmac	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp côn thu trái nối máng và thang cáp tôn posmac	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp côn thu trái máng tôn posmac	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp côn máng tôn posmac	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp Cút đứng ngoài máng tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp Cút đứng trong máng tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp Cút ngang thu phải máng tôn posmac	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp Cút ngang thu trái máng tôn posmac	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp Cút ngang máng tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp máng tôn posmac	m	Nắp máng cáp	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp nối máng và thang cáp kiểu 2 tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp nối máng và thang cáp tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp nối máng và tủ điện kiểu 1 tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp nối máng và tủ điện kiểu 2 tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp nối máng và tủ điện tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp phụ kiện chữ Z đứng lệch phải máng tôn posmac	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp phụ kiện chữ Z đứng máng tôn posmac	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp phụ kiện chữ Z ngang lệch phải máng tôn posmac	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp phụ kiện chữ Z ngang lệch trái máng tôn posmac	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp phụ kiện đa năng CT04 máng tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp tê đều máng tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp tê thu tôn posmac	Cái	Nắp phụ kiện máng	W1/2/3
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp tứ chạc đều tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp tứ chạc thu tôn posmac	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng đột lỗ và thang cáp kiểu 2 tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng đột lỗ và thang cáp tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng không đột lỗ và thang cáp kiểu 2 tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng không đột lỗ và thang cáp tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng ngoài tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng trong tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và thang cáp kiểu 2 tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và thang cáp tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và tủ điện kiểu 1 tôn posmac	Cái	Nối máng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và tủ điện kiểu 2 tôn posmac	Cái	Nối máng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và tủ điện kiểu 3 tôn posmac	Cái	Nối máng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và tủ điện tôn posmac	Cái	Nối máng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z đứng máng đột lỗ tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z đứng máng không đột lỗ tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z ngang lệch phải máng đột lỗ tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z ngang lệch trái máng đột lỗ tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện đa năng CT01 máng đột lỗ tôn posmac	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện đa năng CT02 máng đột lỗ tôn posmac	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện đa năng CT03 máng đột lỗ tôn posmac	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện đa năng CT04 máng đột lỗ tôn posmac	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện đa năng CT05 máng đột lỗ tôn posmac	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tê đều máng đột lỗ tôn posmac	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tê đều máng không đột lỗ tôn posmac	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tê thu máng đột lỗ tôn posmac	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tê thu máng không đột lỗ tôn posmac	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tứ chạc đều máng đột lỗ tôn posmac	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tứ chạc đều máng không đột lỗ tôn posmac	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tứ chạc thu máng đột lỗ tôn posmac	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tứ chạc thu máng không đột lỗ tôn posmac	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện đặc thù tê + chếch đứng ngoài máng đột lỗ tôn sơn tĩnh điện	Cái	Phụ kiện đặc thù	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp máng phụ kiện đặc thù tê + chếch đứng ngoài	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Máng đột lỗ kèm nắp tôn zam	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch đứng ngoài máng đột lỗ kèm nắp tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch đứng trong máng đột lỗ kèm nắp tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch ngang máng đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn máng đột lỗ kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn nối máng đột lỗ và thang cáp kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu phải máng đột lỗ kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu phải máng đột lỗ nối máng và thang cáp kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu trái máng đột lỗ kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu trái nối máng đột lỗ và thang cáp kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút đứng ngoài máng đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút đứng trong máng đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang máng đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang thu phải máng đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang thu trái máng đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z đứng máng đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z đứng lệch phải máng đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z đứng lệch trái máng đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z ngang lệch phải máng đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z ngang lệch trái máng đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện đa năng CT04 máng đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tê đều máng đột lỗ kèm nắp tôn zam	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tê thu máng đột lỗ kèm nắp tôn zam	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn zam	Tứ chạc đều máng đột lỗ kèm nắp tôn zam	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tứ chạc thu máng đột lỗ kèm nắp tôn zam	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và thang cáp kèm nắp tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và thang cáp kiểu 2 kèm nắp tôn zam	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và tủ điện kèm nắp tôn zam	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và tủ điện kiểu 1 kèm nắp tôn zam	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nối máng và tủ điện kiểu 2 kèm nắp tôn zam	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Máng không đột lỗ kèm nắp tôn zam	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch đứng ngoài máng không đột lỗ kèm nắp tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch đứng trong máng không đột lỗ kèm nắp tôn zam	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Chếch ngang máng không đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn máng không đột lỗ kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn nối máng không đột lỗ và thang cáp kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu phải máng không đột lỗ kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu phải máng không đột lỗ nối máng và thang cáp kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu trái máng không đột lỗ kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Côn thu trái nối máng không đột lỗ và thang cáp kèm nắp tôn zam	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút đứng ngoài máng không đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút đứng trong máng không đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang máng không đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang thu phải máng không đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Cút ngang thu trái máng không đột lỗ kèm nắp tôn zam	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z đứng máng không đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z đứng lệch phải máng không đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z đứng lệch trái máng không đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn zam	Phụ kiện đa năng CT04 máng không đột lỗ kèm nắp tôn zam	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tê đều máng không đột lỗ kèm nắp tôn zam	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tê thu máng không đột lỗ kèm nắp tôn zam	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn zam	Tứ chạc đều máng không đột lỗ kèm nắp tôn zam	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Tứ chạc thu máng không đột lỗ kèm nắp tôn zam	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Máng đột lỗ kèm nắp tôn sơn tĩnh điện	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch đứng ngoài máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch đứng trong máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch ngang máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn nối máng đột lỗ và thang cáp kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu phải máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu phải máng đột lỗ nối máng và thang cáp kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu trái máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu trái nối máng đột lỗ và thang cáp kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút đứng ngoài máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút đứng trong máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang thu phải máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang thu trái máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z đứng máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z đứng lệch phải máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z đứng lệch trái máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z ngang lệch phải máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z ngang lệch trái máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện đa năng CT04 máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tê đều máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tê thu máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tứ chạc đều máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tứ chạc thu máng đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và thang cáp kèm nắp tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và thang cáp kiểu 2 kèm nắp tôn sơn tĩnh điện	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và tủ điện kèm nắp tôn sơn tĩnh điện	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và tủ điện kiểu 1 kèm nắp tôn sơn tĩnh điện	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nối máng và tủ điện kiểu 2 kèm nắp tôn sơn tĩnh điện	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Máng không đột lỗ kèm nắp tôn sơn tĩnh điện	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch đứng ngoài máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch đứng trong máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch ngang máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn nối máng không đột lỗ và thang cáp kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu phải máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu phải nối máng không đột lỗ và thang cáp kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu trái máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Côn thu trái nối máng không đột lỗ và thang cáp kèm nắp tôn sơn tĩnh điện	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút đứng ngoài máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút đứng trong máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang thu phải máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Cút ngang thu trái máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z đứng máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z đứng lệch phải máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z đứng lệch trái máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Phụ kiện đa năng CT04 máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tê đều máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tê thu máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tứ chạc đều máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Tứ chạc thu máng không đột lỗ kèm nắp tôn sơn tĩnh điện	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Máng đột lỗ kèm nắp mạ kẽm nhúng nóng	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch đứng ngoài máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch đứng trong máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch ngang máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn nối máng đột lỗ và thang cáp kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu phải máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu phải nối máng đột lỗ và thang cáp kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu trái máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu trái nối máng đột lỗ và thang cáp kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút đứng ngoài máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút đứng trong máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang thu phải máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang thu trái máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z đứng máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z đứng lệch phải máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z đứng lệch trái máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z ngang lệch phải máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z ngang lệch trái máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện đa năng CT04 máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tê đều máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tê thu máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tứ chạc đều máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tứ chạc thu máng đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và thang cáp kèm nắp mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và thang cáp kiểu 2 kèm nắp mạ kẽm nhúng nóng	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và tủ điện kèm nắp mạ kẽm nhúng nóng	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và tủ điện kiểu 1 kèm nắp mạ kẽm nhúng nóng	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nối máng và tủ điện kiểu 2 kèm nắp mạ kẽm nhúng nóng	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch đứng ngoài máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch đứng trong máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch ngang máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn nối máng không đột lỗ và thang cáp kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu phải máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu phải máng không đột lỗ nối máng và thang cáp kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu trái máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Côn thu trái nối máng không đột lỗ và thang cáp kèm nắp mạ kẽm nhúng nóng	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút đứng ngoài máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút đứng trong máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang thu phải máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Cút ngang thu trái máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z đứng máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z đứng lệch phải máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z đứng lệch trái máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Phụ kiện đa năng CT04 máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tê đều máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tê thu máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tứ chạc đều máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Tứ chạc thu máng không đột lỗ kèm nắp mạ kẽm nhúng nóng	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Máng đột lỗ kèm nắp tôn posmac	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch đứng ngoài máng đột lỗ kèm nắp tôn posmac	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch đứng trong máng đột lỗ kèm nắp tôn posmac	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch ngang máng đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn máng đột lỗ kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn nối máng đột lỗ và thang cáp kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu phải máng đột lỗ kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu phải nối máng đột lỗ và thang cáp kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu trái máng đột lỗ kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu trái nối máng đột lỗ và thang cáp kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút đứng ngoài máng đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút đứng trong máng đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang máng đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang thu phải máng đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang thu trái máng đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z đứng máng đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z đứng lệch phải máng đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z đứng lệch trái máng đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z ngang lệch phải máng đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z ngang lệch trái máng đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện đa năng CT04 máng đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tê đều máng đột lỗ kèm nắp tôn posmac	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tê thu máng đột lỗ kèm nắp tôn posmac	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tứ chạc đều máng đột lỗ kèm nắp tôn posmac	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tứ chạc thu máng đột lỗ kèm nắp tôn posmac	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và thang cáp kèm nắp tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và thang cáp kiểu 2 kèm nắp tôn posmac	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và tủ điện kèm nắp tôn posmac	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và tủ điện kiểu 1 kèm nắp tôn posmac	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Nối máng và tủ điện kiểu 2 kèm nắp tôn posmac	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Máng không đột lỗ kèm nắp tôn posmac	m	Máng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch đứng ngoài máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch đứng trong máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Chếch ngang máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn nối máng không đột lỗ và thang cáp kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu phải máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu phải nối máng không đột lỗ và thang cáp kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu trái máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Côn thu trái nối máng không đột lỗ và thang cáp kèm nắp tôn posmac	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút đứng ngoài máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút đứng trong máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang thu phải máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Cút ngang thu trái máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z đứng máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z đứng lệch phải máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z đứng lệch trái máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn posmac	Phụ kiện đa năng CT04 máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tê đều máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tê thu máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tứ chạc đều máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Tứ chạc thu máng không đột lỗ kèm nắp tôn posmac	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn posmac	Lưỡi gà chống xước cáp tôn posmac	Cái	Phụ kiện máng	WxH
+Kích hoạt	Máng & phụ kiện tôn posmac	Nắp lưỡi gà chống xước cáp tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Lưỡi gà chống xước cáp tôn sơn tĩnh điện	Cái	Phụ kiện máng	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Nắp lưỡi gà chống xước cáp tôn sơn tĩnh điện	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn zam	Lưỡi gà chống xước cáp tôn posmac	Cái	Phụ kiện máng	WxH
+Kích hoạt	Máng & phụ kiện tôn zam	Nắp lưỡi gà chống xước cáp tôn posmac	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Lưỡi gà chống xước cáp mạ kẽm nhúng nóng	Cái	Phụ kiện máng	WxH
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Nắp lưỡi gà chống xước cáp mạ kẽm nhúng nóng	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp lưỡi gà chống xước cáp tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Lưỡi gà chống xước cáp tôn đen	Cái	Phụ kiện máng	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Tứ chạc thu máng không đột lỗ kèm nắp tôn đen	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Tứ chạc đều máng không đột lỗ kèm nắp tôn đen	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Tê thu máng không đột lỗ kèm nắp tôn đen	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn đen	Tê đều máng không đột lỗ kèm nắp tôn đen	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện đa năng CT04 máng không đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z đứng lệch trái máng không đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z đứng lệch phải máng không đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z đứng máng không đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Cút ngang thu trái máng không đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút ngang thu phải máng không đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút ngang máng không đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút đứng trong máng không đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút đứng ngoài máng không đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu trái nối máng không đột lỗ và thang cáp kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu trái máng không đột lỗ kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu phải nối máng không đột lỗ và thang cáp kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu phải máng không đột lỗ kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn nối máng không đột lỗ và thang cáp kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn máng không đột lỗ kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch ngang máng không đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch đứng trong máng không đột lỗ kèm nắp tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch đứng ngoài máng không đột lỗ kèm nắp tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Máng không đột lỗ kèm nắp tôn đen	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và tủ điện kiểu 2 kèm nắp tôn đen	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và tủ điện kiểu 1 kèm nắp tôn đen	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và tủ điện kèm nắp tôn đen	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và thang cáp kiểu 2 kèm nắp tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và thang cáp kèm nắp tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Tứ chạc thu máng đột lỗ kèm nắp tôn đen	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Tứ chạc đều máng đột lỗ kèm nắp tôn đen	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Tê thu máng đột lỗ kèm nắp tôn đen	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn đen	Tê đều máng đột lỗ kèm nắp tôn đen	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện đa năng CT04 máng đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z ngang lệch trái máng đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z ngang lệch phải máng đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z đứng lệch trái máng đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z đứng lệch phải máng đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z đứng máng đột lỗ kèm nắp tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Cút ngang thu trái máng đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút ngang thu phải máng đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút ngang máng đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút đứng trong máng đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút đứng ngoài máng đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu trái nối máng đột lỗ và thang cáp kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu trái máng đột lỗ kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu phải máng đột lỗ nối máng và thang cáp kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu phải máng đột lỗ kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn nối máng đột lỗ và thang cáp kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn máng đột lỗ kèm nắp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch ngang máng đột lỗ kèm nắp tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch đứng trong máng đột lỗ kèm nắp tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch đứng ngoài máng đột lỗ kèm nắp tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Máng đột lỗ kèm nắp tôn đen	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và thang cáp tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp phụ kiện đa năng CT04 máng tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp phụ kiện chữ Z đứng lệch phải tôn đen	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp Cút ngang thu trái máng tôn đen	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp Cút ngang thu phải máng tôn đen	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp côn thu trái máng tôn đen	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp côn thu trái nối máng và thang cáp tôn đen	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp côn thu phải máng tôn đen	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp côn thu phải nối máng và thang cáp tôn đen	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn đen	Cút ngang nối máng đột lỗ và thang cáp tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu trái nối máng đột lỗ và thang cáp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu trái máng không đột lỗ tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu phải nối máng đột lỗ và thang cáp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu phải máng không đột lỗ tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn thu trái máng đột lỗ tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp côn nối máng và thang cáp tôn đen	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng không đột lỗ và thang cáp kiểu 2 tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng đột lỗ và thang cáp kiểu 2 tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và thang cáp kiểu 2 tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp nối máng và tủ điện tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp phụ kiện chữ Z ngang lệch trái máng tôn đen	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z ngang lệch phải máng không đột lỗ tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z ngang lệch trái máng không đột lỗ tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và tủ điện tôn đen	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z ngang lệch trái máng đột lỗ tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch ngang máng không đột lỗ tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp phụ kiện chữ Z ngang lệch phải máng tôn đen	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp nối máng và thang cáp kiểu 2 tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Côn nối máng không đột lỗ và thang cáp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Tê thu máng không đột lỗ tôn đen	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp tứ chạc thu máng tôn đen	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn đen	Tứ chạc thu máng không đột lỗ tôn đen	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Tứ chạc thu máng đột lỗ tôn đen	Cái	Channel Cross	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp tê thu máng tôn đen	Cái	Nắp phụ kiện máng	W1/2/3
+Kích hoạt	Máng & phụ kiện tôn đen	Tê thu máng đột lỗ tôn đen	Cái	Channel Tee	W1/2/3xH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và tủ điện kiểu 3 tôn đen	Cái	Ladder Union	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn nối máng đột lỗ và thang cáp tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z ngang lệch phải máng đột lỗ tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp nối máng và tủ điện kiểu 2 tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và tủ điện kiểu 2 tôn đen	Cái	Ladder Union	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp nối máng và thang cáp tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp chếch ngang máng tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch ngang máng đột lỗ tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp nối máng và tủ điện kiểu 1 tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện đa năng CT05 máng đột lỗ tôn đen	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện đa năng CT04 máng đột lỗ tôn đen	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện đa năng CT03 máng đột lỗ tôn đen	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện đa năng CT02 máng đột lỗ tôn đen	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện đa năng CT01 máng đột lỗ tôn đen	Cái	Phụ kiện máng đa năng	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng không đột lỗ và thang cáp tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z đứng máng không đột lỗ tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Tứ chạc đều máng không đột lỗ tôn đen	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Tê đều máng không đột lỗ tôn đen	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch đứng ngoài máng không đột lỗ tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch đứng trong máng không đột lỗ tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút đứng ngoài máng không đột lỗ tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút đứng trong máng không đột lỗ tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút ngang máng không đột lỗ tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn máng không đột lỗ tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Máng không đột lỗ tôn đen	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp phụ kiện chữ Z đứng máng tôn đen	Cái	Nắp phụ kiện máng	WxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp tứ chạc đều máng tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp tê đều máng tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp chếch đứng ngoài máng tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp chếch đứng trong máng tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp cút đứng ngoài máng tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp cút đứng trong máng tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp cút ngang máng tôn đen	Cái	Nắp phụ kiện máng	W
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp côn máng tôn đen	Cái	Nắp phụ kiện máng	W1/2
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp máng tôn đen	m	Nắp máng cáp	W
+Kích hoạt	Máng & phụ kiện tôn đen	Kẹp nắp máng tôn đen	Cái	Kẹp nắp máng	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nắp bịt cuối máng tôn đen	Cái	Channel Multi Port	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng và tủ điện kiểu 1 tôn đen	Cái	Channel Union	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng đột lỗ và thang cáp tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Phụ kiện chữ Z đứng máng đột lỗ tôn đen	Cái	Channel Offset	WxHxZ
+Kích hoạt	Máng & phụ kiện tôn đen	Tứ chạc đều máng đột lỗ tôn đen	Cái	Channel Cross	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Tê đều máng đột lỗ tôn đen	Cái	Channel Tee	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch đứng ngoài máng đột lỗ tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Chếch đứng trong máng đột lỗ tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút đứng ngoài máng đột lỗ tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút đứng trong máng đột lỗ tôn đen	Cái	Channel Vertical Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Cút ngang máng đột lỗ tôn đen	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Côn máng đột lỗ tôn đen	Cái	Channel Transition	W1/2xH
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng ngoài tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Nối máng trong tôn đen	Cái	Channel Union	H
+Kích hoạt	Máng & phụ kiện tôn đen	Máng đột lỗ tôn đen	m	Máng cáp	WxH
+Kích hoạt	Máng & phụ kiện tôn đen	Kẹp máng tôn đen	Cái	Kẹp máng cáp	H
+Kích hoạt	Máng & phụ kiện mạ kẽm nhúng nóng	Chếch ngang máng không đột lỗ kèm nắp 15 độ mạ kẽm nhúng nóng	Cái	Channel Elbow	WxH
+Kích hoạt	Máng & phụ kiện tôn sơn tĩnh điện	Chếch ngang máng không đột lỗ kèm nắp 15 độ tôn sơn tĩnh điện	Cái	Channel Elbow	WxH

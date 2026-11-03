@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hawee_Chuẩn hóa vật tư ERP"
+  short_description: "Chuẩn hóa và tra cứu vật tư ERP"
+  default_prompt: "Use $ai-chuan-hoa-vat-tu-erp to chuẩn hóa vật tư trong file tôi cung cấp hoặc tra cứu vật tư trên ERP."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,602 @@
+[
+  {
+    "Mã hoàn thiện": "CLR.WHT",
+    "Tên hoàn thiện": "màu trắng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.ORG",
+    "Tên hoàn thiện": "màu cam",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.RED",
+    "Tên hoàn thiện": "màu đỏ",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.YLW",
+    "Tên hoàn thiện": "màu vàng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BLU+U001",
+    "Tên hoàn thiện": "màu xanh lam",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.GRN",
+    "Tên hoàn thiện": "màu xanh lá",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "HOL.TOP",
+    "Tên hoàn thiện": "khoét lỗ trên",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "HOL.RGT",
+    "Tên hoàn thiện": "khoét lỗ phải",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "HOL.TRI",
+    "Tên hoàn thiện": "khoét lỗ trên bên phải",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "HOL.TBT",
+    "Tên hoàn thiện": "khoét lỗ trên phía dưới",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "HOL.LRG",
+    "Tên hoàn thiện": "khoét lỗ trái bên phải",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BLK",
+    "Tên hoàn thiện": "màu đen",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.YGN",
+    "Tên hoàn thiện": "màu vàng xanh",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.GRN2",
+    "Tên hoàn thiện": "màu xanh",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BLU",
+    "Tên hoàn thiện": "màu xanh dương",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.GRY",
+    "Tên hoàn thiện": "màu xám",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.GRY2",
+    "Tên hoàn thiện": "màu ghi",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BRN",
+    "Tên hoàn thiện": "màu nâu",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.YOR",
+    "Tên hoàn thiện": "màu vàng cam",
+    "Mô tả": "",
+    "Trạng thái": "Không kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.KTC",
+    "Tên hoàn thiện": "in chữ: Kitchen",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.WAL",
+    "Tên hoàn thiện": "in chữ: Wall",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.BAL",
+    "Tên hoàn thiện": "in chữ: Balcony",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.COR",
+    "Tên hoàn thiện": "in chữ: Corridor",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.LED",
+    "Tên hoàn thiện": "in chữ: Led",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.PEN",
+    "Tên hoàn thiện": "in chữ: Pendant",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CEI+KTC",
+    "Tên hoàn thiện": "in chữ: Ceiling+Kitchen",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.PEN+KTC",
+    "Tên hoàn thiện": "in chữ: Pendant+Kitchen",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.PEN+LED",
+    "Tên hoàn thiện": "in chữ: Pendant+Led",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CEI+FAN+LED",
+    "Tên hoàn thiện": "in chữ: Ceiling+Fan+Led",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CEI",
+    "Tên hoàn thiện": "in chữ: Ceiling",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CE1+CE2",
+    "Tên hoàn thiện": "in chữ: Ceiling 1+Ceiling 2",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CEI+LED",
+    "Tên hoàn thiện": "in chữ: Ceiling+Led",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CE1+CE2+LED",
+    "Tên hoàn thiện": "in chữ: Ceiling 1+Ceiling 2+Led",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.WHT",
+    "Tên hoàn thiện": "in chữ: Water Heater",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.PEN/BAL",
+    "Tên hoàn thiện": "in chữ: PENDANT/BALCONY",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.PE1/PE2",
+    "Tên hoàn thiện": "in chữ: PENDANT 1/PENDANT 2",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CEI/LED/FAN",
+    "Tên hoàn thiện": "in chữ: CEILING/LED/FAN",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.PEN/CE1/CE2",
+    "Tên hoàn thiện": "in chữ: PENDANT/CEILING 1/CEILING 2",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CEI/PEN",
+    "Tên hoàn thiện": "in chữ: CEILING/PENDANT",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CE1/CE2/KTC",
+    "Tên hoàn thiện": "in chữ: CEILING 1/CEILING 2/KITCHEN",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CE1/CE2/PEN",
+    "Tên hoàn thiện": "in chữ: CEILING 1/CEILING 2/PENDANT",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CEI/WAL/FAN",
+    "Tên hoàn thiện": "in chữ: CEILING/WALL/FAN",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.CEI/PEN/FAN",
+    "Tên hoàn thiện": "in chữ: CEILING/PENDANT/FAN",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "TXT.KTC+BAR",
+    "Tên hoàn thiện": "in chữ: Kitchen+Bar",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CCT.WWM",
+    "Tên hoàn thiện": "màu trắng ấm",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CCT.K40",
+    "Tên hoàn thiện": "4000K",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "DIR.001",
+    "Tên hoàn thiện": "chỉ 1 hướng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "DIR.002",
+    "Tên hoàn thiện": "chỉ 2 hướng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.CRM",
+    "Tên hoàn thiện": "màu kem",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BRB",
+    "Tên hoàn thiện": "màu đen nâu",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.GRY4",
+    "Tên hoàn thiện": "màu ghi xám",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "PNT.B7",
+    "Tên hoàn thiện": "sơn màu - B7",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "SLV.0",
+    "Tên hoàn thiện": "không bạc",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "SLV.1",
+    "Tên hoàn thiện": "có bạc",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "GLU.0+SLV.0",
+    "Tên hoàn thiện": "không keo không bạc",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "GLU.1+SLV.1",
+    "Tên hoàn thiện": "có keo có bạc",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "GLU.1+SLV.0",
+    "Tên hoàn thiện": "có keo không bạc",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "GLU.0+SLV.1",
+    "Tên hoàn thiện": "không keo có bạc",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.FLT",
+    "Tên hoàn thiện": "kèm lưới lọc bụi",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.FLT+CLR.WHT",
+    "Tên hoàn thiện": "kèm lưới lọc bụi, màu trắng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.LCT",
+    "Tên hoàn thiện": "kèm LCCT",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BLK+SF.MAT",
+    "Tên hoàn thiện": "màu đen lì",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.WHT+BLU",
+    "Tên hoàn thiện": "trắng xanh",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.FLT+CLR.GRN",
+    "Tên hoàn thiện": "kèm lưới lọc bụi, màu trắng xanh",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.FLT+CLR.WHT+SF.MTE",
+    "Tên hoàn thiện": "kèm lưới lọc bụi, màu trắng mờ",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.WHT+SF.MTE",
+    "Tên hoàn thiện": "màu trắng mờ",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "INT.MS230T",
+    "Tên hoàn thiện": "màu MS230T",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BRN.LIT",
+    "Tên hoàn thiện": "màu nâu nhạt",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.RED+WHT",
+    "Tên hoàn thiện": "màu đỏ trắng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.G04",
+    "Tên hoàn thiện": "kèm phin lọc G4",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.LCT+FLT",
+    "Tên hoàn thiện": "kèm lưới lọc bụi + LCCT",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.G01",
+    "Tên hoàn thiện": "kèm phin lọc G1",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.G02",
+    "Tên hoàn thiện": "kèm phin lọc G2",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.G03",
+    "Tên hoàn thiện": "kèm phin lọc G3",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "COA.AZ50",
+    "Tên hoàn thiện": "tôn mạ màu",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BLK+WHT",
+    "Tên hoàn thiện": "màu đen trắng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "MAT.CIR+CLR.GRY",
+    "Tên hoàn thiện": "màu gang xám",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "MAT.ABS+CLR.WHT",
+    "Tên hoàn thiện": "ABS trắng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.CLR",
+    "Tên hoàn thiện": "màu trắng trong",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.MIL",
+    "Tên hoàn thiện": "màu trắng sữa",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BRN+WHT",
+    "Tên hoàn thiện": "màu nâu-trắng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BLU+BRN",
+    "Tên hoàn thiện": "màu xanh da trời-nâu",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.BLU+WHT",
+    "Tên hoàn thiện": "màu xanh da trời-trắng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.GLD",
+    "Tên hoàn thiện": "màu vàng đồng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.CLR+U002",
+    "Tên hoàn thiện": "màu trong",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "PNT.REF",
+    "Tên hoàn thiện": "sơn phản quang đen vàng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "MAT.GLS+CLR.WHT+THK.T5",
+    "Tên hoàn thiện": "kính trắng dày 5mm",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "PNT.BLK",
+    "Tên hoàn thiện": "sơn màu đen",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.RDB",
+    "Tên hoàn thiện": "màu nâu đỏ",
+    "Mô tả": "màu nâu đỏ",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.ORG2",
+    "Tên hoàn thiện": "orange enamel",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.RED2",
+    "Tên hoàn thiện": "epoxy red",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.RED3",
+    "Tên hoàn thiện": "red enamel",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "WR",
+    "Tên hoàn thiện": "chống nước",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.GRYRAL7032",
+    "Tên hoàn thiện": "màu ghi (RAL7032 bóng)",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.SVR",
+    "Tên hoàn thiện": "màu bạc",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "CLR.COP",
+    "Tên hoàn thiện": "màu đồng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.LCT+G03|CLR.WHT",
+    "Tên hoàn thiện": "kèm LCCT+phin lọc G3, màu trắng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.LCT|CLR.WHT",
+    "Tên hoàn thiện": "kèm LCCT, màu trắng",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.LCT+G03|CLR.GRY",
+    "Tên hoàn thiện": "kèm LCCT+phin lọc G3, màu xám",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  },
+  {
+    "Mã hoàn thiện": "ACC.LCT|CLR.GRY",
+    "Tên hoàn thiện": "kèm LCCT, màu xám",
+    "Mô tả": "",
+    "Trạng thái": "Kích hoạt"
+  }
+]

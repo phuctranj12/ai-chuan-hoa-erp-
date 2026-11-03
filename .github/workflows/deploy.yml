@@ -1,0 +1,92 @@
+# Push vào main → test trên cloud → deploy bằng runner self-hosted cài trên server.
+#
+# CHỈ chạy job deploy khi đã cấu hình xong server (Settings → Secrets and variables → Actions → Variables):
+#   DEPLOY_ENABLED     = true                 (chưa đặt → chỉ chạy test, không chờ runner)
+#   DEPLOY_RUNNER      = nhãn runner trên server (mặc định: self-hosted)
+#   DEPLOY_DIR         = thư mục trên server   (mặc định: /opt/vattu-mcp)
+# Workflow KHÔNG bootstrap server: lần đầu làm tay theo deploy/README.md (tạo .env, certs).
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-vattu-mcp
+  cancel-in-progress: false
+
+jobs:
+  test:
+    uses: ./.github/workflows/ci.yml
+
+  deploy:
+    needs: [test]
+    if: vars.DEPLOY_ENABLED == 'true'
+    runs-on: ${{ vars.DEPLOY_RUNNER || 'self-hosted' }}
+    env:
+      DEPLOY_DIR: ${{ vars.DEPLOY_DIR || '/opt/vattu-mcp' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # Đồng bộ code, GIỮ NGUYÊN những thứ chỉ có trên server. Thiếu một --exclude là mất vĩnh viễn:
+      #   .env → mất khoá mã hoá (mọi người phải đăng nhập lại) + cấu hình domain/cổng
+      #   certs/ → mất TLS;  shared/ + override → mất con trỏ phiên bản, rollback vô dụng
+      - name: Đồng bộ code vào ${{ env.DEPLOY_DIR }}
+        run: |
+          mkdir -p "$DEPLOY_DIR"
+          rsync -a --delete \
+            --exclude='.git/' \
+            --exclude='node_modules/' \
+            --exclude='deploy/.env' \
+            --exclude='deploy/certs/' \
+            --exclude='deploy/shared/' \
+            --exclude='deploy/docker-compose.override.yml' \
+            "$GITHUB_WORKSPACE/" "$DEPLOY_DIR/"
+          chmod +x "$DEPLOY_DIR"/deploy/*.sh "$DEPLOY_DIR"/deploy/scripts/*.sh
+
+      - name: Preflight (.env, certs, cổng)
+        working-directory: ${{ env.DEPLOY_DIR }}/deploy
+        run: ./scripts/preflight.sh
+
+      - name: Build (tag SHA) + khởi động
+        working-directory: ${{ env.DEPLOY_DIR }}/deploy
+        run: |
+          TAG=$(echo "$GITHUB_SHA" | cut -c1-7)
+          mkdir -p shared
+          cat shared/CURRENT_TAG 2>/dev/null > "$RUNNER_TEMP/prev_tag" || true
+          ./scripts/write-override.sh "$TAG"
+          docker compose build
+          docker compose up -d --no-build
+          docker compose ps
+
+      # Deploy "xanh" mà dịch vụ chết là tệ nhất: kiểm qua chính nginx; hỏng thì tự quay về bản trước.
+      - name: Kiểm tra sống (tự rollback nếu hỏng)
+        working-directory: ${{ env.DEPLOY_DIR }}/deploy
+        run: |
+          TAG=$(echo "$GITHUB_SHA" | cut -c1-7)
+          if ./scripts/health-check.sh; then
+            printf '%s  %s  %s\n' "$(date -Iseconds)" "$TAG" "$GITHUB_SHA" >> shared/releases.log
+            echo "$TAG" > shared/CURRENT_TAG
+            exit 0
+          fi
+          PREV=$(cat "$RUNNER_TEMP/prev_tag" 2>/dev/null || true)
+          if [ -n "$PREV" ]; then
+            echo "::error::Bản $TAG không đạt kiểm tra — quay về $PREV"
+            ./rollback.sh "$PREV" || true
+          else
+            echo "::error::Bản $TAG không đạt kiểm tra và chưa có bản trước để quay về"
+          fi
+          exit 1
+
+      - name: Giữ 5 bản gần nhất, dọn phần cũ
+        if: always()
+        run: |
+          for repo in vattu_mcp vattu_gateway; do
+            docker images "$repo" --format '{{.Repository}}:{{.Tag}}' | grep -v ':<none>$' | grep -v ':dev$' \
+              | awk 'NR>5' | xargs -r docker rmi 2>/dev/null || true
+          done
+          docker image prune -f
